@@ -4,4 +4,4 @@ greeting = 'Welcome!'
   puts greeting.upcase
 end
 
-puts Time.now
+puts Time.new
