@@ -2,18 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb3e086f-1776-4c06-96b6-22e4da8430ef" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flicks2.rb" afterPath="$PROJECT_DIR$/flicks2.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/studio_game.rb" afterPath="$PROJECT_DIR$/studio_game.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="studio_game.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/studio_game.rb" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1360946937835" ignored="false" />
-    <file path="/Dummy.txt" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1360943534303" ignored="false" />
+    <file path="/studio_game.rb" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1360948306316" ignored="false" />
+    <file path="/Dummy.txt" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1360948319221" ignored="false" />
     <file path="/flicks.rb" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1360694199901" ignored="false" />
     <file path="/flicks2.rb" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1360944153742" ignored="false" />
     <file path="/calculator.rb" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1360705431293" ignored="false" />
     <file path="/Ruby Console" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1360878462272" ignored="false" />
+    <file path="/README.md" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1360948494533" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,18 +41,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="studio_game.rb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="studio_game.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/studio_game.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="64" column="17" selection-start="1153" selection-end="1153" vertical-scroll-proportion="0.8378378">
+            <state line="66" column="18" selection-start="1173" selection-end="1173" vertical-scroll-proportion="0.0">
               <folding>
-                <element signature="n#Player#0;n#!!top" expanded="false" />
+                <element signature="e#0#426#0" expanded="false" />
                 <element signature="e#60#147#0" expanded="false" />
                 <element signature="e#151#238#0" expanded="false" />
                 <element signature="e#242#307#0" expanded="false" />
                 <element signature="e#311#375#0" expanded="false" />
                 <element signature="e#379#421#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="51" selection-start="159" selection-end="159" vertical-scroll-proportion="0.1891892">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -91,17 +100,17 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/delete.rb" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/flicks.rb" />
         <option value="$PROJECT_DIR$/calculator.rb" />
         <option value="$PROJECT_DIR$/flicks2.rb" />
         <option value="$PROJECT_DIR$/studio_game.rb" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="754" />
-    <option name="y" value="48" />
+    <option name="x" value="479" />
+    <option name="y" value="32" />
     <option name="width" value="1152" />
     <option name="height" value="993" />
   </component>
@@ -460,7 +469,15 @@
       <created>1360879475178</created>
       <updated>1360879475178</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Merge remote-tracking branch 'origin/master'&#10;&#9;Chapter 10: Objects interacting">
+      <created>1360947014467</created>
+      <updated>1360947014467</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Merge remote-tracking branch 'origin/master'&#10;&#9;Chapter 10: Objects interacting">
+      <created>1360948322453</created>
+      <updated>1360948322453</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -484,9 +501,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="754" y="48" width="1152" height="993" extended-state="0" />
+    <frame x="479" y="32" width="1152" height="993" extended-state="0" />
     <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295129" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295129" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -501,7 +519,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -545,7 +562,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#9;Chapter 9: Arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#9;Chapter 10: Objects interacting" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -565,6 +582,7 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#9;Chapter 7: Classes" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#9;Chapter 8: Attributes" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#9;Chapter 9: Arrays" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#9;Chapter 10: Objects interacting" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -602,7 +620,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="33" column="12" selection-start="502" selection-end="502" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="n#Player#0;n#!!top" expanded="false" />
+            <element signature="e#0#426#0" expanded="false" />
             <element signature="e#60#147#0" expanded="false" />
             <element signature="e#151#238#0" expanded="false" />
             <element signature="e#242#307#0" expanded="false" />
@@ -632,11 +650,6 @@
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="46" selection-start="106" selection-end="106" vertical-scroll-proportion="0.2173913" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
@@ -672,15 +685,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/studio_game.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="17" selection-start="1153" selection-end="1153" vertical-scroll-proportion="0.8378378">
+        <state line="66" column="18" selection-start="1173" selection-end="1173" vertical-scroll-proportion="0.0">
           <folding>
-            <element signature="n#Player#0;n#!!top" expanded="false" />
+            <element signature="e#0#426#0" expanded="false" />
             <element signature="e#60#147#0" expanded="false" />
             <element signature="e#151#238#0" expanded="false" />
             <element signature="e#242#307#0" expanded="false" />
             <element signature="e#311#375#0" expanded="false" />
             <element signature="e#379#421#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="51" selection-start="159" selection-end="159" vertical-scroll-proportion="0.1891892">
+          <folding />
         </state>
       </provider>
     </entry>
