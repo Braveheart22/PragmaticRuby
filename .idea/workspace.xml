@@ -8,10 +8,10 @@
     </list>
     <ignored path="studio_game.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/studio_game.rb" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1360879146220" ignored="false" />
-    <file path="/Dummy.txt" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1360874228368" ignored="false" />
+    <file path="/studio_game.rb" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1360946937835" ignored="false" />
+    <file path="/Dummy.txt" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1360943534303" ignored="false" />
     <file path="/flicks.rb" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1360694199901" ignored="false" />
-    <file path="/flicks2.rb" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1360876540115" ignored="false" />
+    <file path="/flicks2.rb" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1360944153742" ignored="false" />
     <file path="/calculator.rb" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1360705431293" ignored="false" />
     <file path="/Ruby Console" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1360878462272" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,7 +33,7 @@
       <file leaf-file-name="flicks2.rb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/flicks2.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="1" selection-start="423" selection-end="423" vertical-scroll-proportion="0.0">
+            <state line="47" column="1" selection-start="665" selection-end="665" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="n#Movie#0;n#!!top" expanded="false" />
               </folding>
@@ -44,8 +44,9 @@
       <file leaf-file-name="studio_game.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/studio_game.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="12" selection-start="700" selection-end="700" vertical-scroll-proportion="0.72496027">
+            <state line="64" column="17" selection-start="1153" selection-end="1153" vertical-scroll-proportion="0.8378378">
               <folding>
+                <element signature="n#Player#0;n#!!top" expanded="false" />
                 <element signature="e#60#147#0" expanded="false" />
                 <element signature="e#151#238#0" expanded="false" />
                 <element signature="e#242#307#0" expanded="false" />
@@ -99,8 +100,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="351" />
-    <option name="y" value="32" />
+    <option name="x" value="754" />
+    <option name="y" value="48" />
     <option name="width" value="1152" />
     <option name="height" value="993" />
   </component>
@@ -378,8 +379,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="IRB console.IRB console" />
-        <item index="1" class="java.lang.String" itemvalue="Ruby.flicks2" />
+        <item index="0" class="java.lang.String" itemvalue="Ruby.flicks2" />
+        <item index="1" class="java.lang.String" itemvalue="IRB console.IRB console" />
         <item index="2" class="java.lang.String" itemvalue="IRB console.IRB console" />
         <item index="3" class="java.lang.String" itemvalue="Ruby.calculator" />
         <item index="4" class="java.lang.String" itemvalue="Ruby.flicks" />
@@ -455,7 +456,11 @@
       <created>1360789609861</created>
       <updated>1360789609861</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Merge remote-tracking branch 'origin/master'&#10;&#9;Chapter 9: Arrays">
+      <created>1360879475178</created>
+      <updated>1360879475178</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -479,14 +484,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="351" y="32" width="1152" height="993" extended-state="0" />
+    <frame x="754" y="48" width="1152" height="993" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295129" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295129" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2908257" sideWeight="0.76251453" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29633027" sideWeight="0.76251453" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295129" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -540,7 +545,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#9;Chapter 8: Attributes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#9;Chapter 9: Arrays" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -559,6 +564,7 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;Conflicts:&#10;&#9;.idea/workspace.xml&#10;&#9;&#10;&#9;Chapter 6: Methods" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#9;Chapter 7: Classes" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#9;Chapter 8: Attributes" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#9;Chapter 9: Arrays" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -596,6 +602,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="33" column="12" selection-start="502" selection-end="502" vertical-scroll-proportion="0.0">
           <folding>
+            <element signature="n#Player#0;n#!!top" expanded="false" />
             <element signature="e#60#147#0" expanded="false" />
             <element signature="e#151#238#0" expanded="false" />
             <element signature="e#242#307#0" expanded="false" />
@@ -656,7 +663,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/flicks2.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="1" selection-start="423" selection-end="423" vertical-scroll-proportion="0.0">
+        <state line="47" column="1" selection-start="665" selection-end="665" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="n#Movie#0;n#!!top" expanded="false" />
           </folding>
@@ -665,8 +672,9 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/studio_game.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="12" selection-start="700" selection-end="700" vertical-scroll-proportion="0.72496027">
+        <state line="64" column="17" selection-start="1153" selection-end="1153" vertical-scroll-proportion="0.8378378">
           <folding>
+            <element signature="n#Player#0;n#!!top" expanded="false" />
             <element signature="e#60#147#0" expanded="false" />
             <element signature="e#151#238#0" expanded="false" />
             <element signature="e#242#307#0" expanded="false" />
