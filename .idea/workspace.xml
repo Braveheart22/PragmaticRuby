@@ -2,21 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb3e086f-1776-4c06-96b6-22e4da8430ef" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/conditionals.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/movie_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/player.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/player_spec.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/playlist_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/movie.rb" afterPath="$PROJECT_DIR$/movie.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/playlist.rb" afterPath="$PROJECT_DIR$/playlist.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/studio_game.rb" afterPath="$PROJECT_DIR$/studio_game.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="studio_game.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/studio_game.rb" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1360948306316" ignored="false" />
-    <file path="/Dummy.txt" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1361286589780" ignored="false" />
+    <file path="/Dummy.txt" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1361312825610" ignored="false" />
     <file path="/flicks.rb" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1360694199901" ignored="false" />
     <file path="/flicks2.rb" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1360954654108" ignored="false" />
     <file path="/calculator.rb" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1360705431293" ignored="false" />
@@ -24,8 +15,8 @@
     <file path="/README.md" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1360948494533" ignored="false" />
     <file path="/movie.rb" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1361307368084" ignored="false" />
     <file path="/playlist.rb" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1361309346367" ignored="false" />
-    <file path="/player_spec.rb" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1361290173620" ignored="false" />
-    <file path="/player.rb" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1361288216683" ignored="false" />
+    <file path="/player_spec.rb" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1361312742458" ignored="false" />
+    <file path="/player.rb" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1361312771577" ignored="false" />
     <file path="/conditionals.rb" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1361302614867" ignored="false" />
     <file path="/movie_spec.rb" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1361307315109" ignored="false" />
     <file path="/playlist_spec.rb" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1361309200565" ignored="false" />
@@ -45,55 +36,19 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="flicks2.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/flicks2.rb">
+      <file leaf-file-name="player_spec.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/player_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0">
+            <state line="52" column="16" selection-start="1100" selection-end="1100" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="movie.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/movie.rb">
+      <file leaf-file-name="player.rb" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/player.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="50" selection-start="282" selection-end="282" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="movie_spec.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/movie_spec.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="57" selection-start="375" selection-end="375" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="playlist_spec.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/playlist_spec.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="45" selection-start="763" selection-end="763" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="playlist.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/playlist.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="7" selection-start="604" selection-end="604" vertical-scroll-proportion="0.8918919">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="conditionals.rb" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/conditionals.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="33" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
+            <state line="27" column="17" selection-start="435" selection-end="435" vertical-scroll-proportion="0.83454543">
               <folding />
             </state>
           </provider>
@@ -129,13 +84,13 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/studio_game.rb" />
         <option value="$PROJECT_DIR$/flicks2.rb" />
-        <option value="$PROJECT_DIR$/player.rb" />
-        <option value="$PROJECT_DIR$/player_spec.rb" />
         <option value="$PROJECT_DIR$/conditionals.rb" />
         <option value="$PROJECT_DIR$/movie_spec.rb" />
         <option value="$PROJECT_DIR$/movie.rb" />
         <option value="$PROJECT_DIR$/playlist_spec.rb" />
         <option value="$PROJECT_DIR$/playlist.rb" />
+        <option value="$PROJECT_DIR$/player_spec.rb" />
+        <option value="$PROJECT_DIR$/player.rb" />
       </list>
     </option>
   </component>
@@ -219,37 +174,7 @@
     <property name="restartRequiresConfirmation" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/studio_game_first.rb" />
   </component>
-  <component name="RunManager" selected="RSpec.playlist_spec">
-    <configuration default="false" name="player_spec" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
-      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
-      <module name="studio_game" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$PROJECT_DIR$/player_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <RunnerSettings RunnerId="RubyRunner" />
-      <ConfigurationWrapper RunnerId="RubyRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="RSpec.player_spec">
     <configuration default="false" name="movie_spec" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
       <predefined_log_file id="RUBY_RSPEC" enabled="true" />
       <module name="studio_game" />
@@ -333,6 +258,36 @@
       <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$PROJECT_DIR$/playlist_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="player_spec" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="studio_game" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$PROJECT_DIR$/player_spec.rb" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
@@ -446,20 +401,20 @@
       <method />
     </configuration>
     <list size="6">
-      <item index="0" class="java.lang.String" itemvalue="RSpec.player_spec" />
-      <item index="1" class="java.lang.String" itemvalue="RSpec.movie_spec" />
-      <item index="2" class="java.lang.String" itemvalue="Ruby.studio_game" />
-      <item index="3" class="java.lang.String" itemvalue="Ruby.flicks2" />
-      <item index="4" class="java.lang.String" itemvalue="Ruby.conditionals" />
-      <item index="5" class="java.lang.String" itemvalue="RSpec.playlist_spec" />
+      <item index="0" class="java.lang.String" itemvalue="RSpec.movie_spec" />
+      <item index="1" class="java.lang.String" itemvalue="Ruby.studio_game" />
+      <item index="2" class="java.lang.String" itemvalue="Ruby.flicks2" />
+      <item index="3" class="java.lang.String" itemvalue="Ruby.conditionals" />
+      <item index="4" class="java.lang.String" itemvalue="RSpec.playlist_spec" />
+      <item index="5" class="java.lang.String" itemvalue="RSpec.player_spec" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="RSpec.playlist_spec" />
-        <item index="1" class="java.lang.String" itemvalue="RSpec.movie_spec" />
-        <item index="2" class="java.lang.String" itemvalue="Ruby.conditionals" />
-        <item index="3" class="java.lang.String" itemvalue="RSpec.player_spec" />
-        <item index="4" class="java.lang.String" itemvalue="Ruby.flicks2" />
+        <item index="0" class="java.lang.String" itemvalue="RSpec.player_spec" />
+        <item index="1" class="java.lang.String" itemvalue="RSpec.playlist_spec" />
+        <item index="2" class="java.lang.String" itemvalue="RSpec.movie_spec" />
+        <item index="3" class="java.lang.String" itemvalue="Ruby.conditionals" />
+        <item index="4" class="java.lang.String" itemvalue="RSpec.player_spec" />
       </list>
     </recent_temporary>
   </component>
@@ -552,7 +507,15 @@
       <created>1360954929208</created>
       <updated>1360954929208</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;Lesson 13: Conditionals and TDD">
+      <created>1361309677598</created>
+      <updated>1361309677598</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;Lesson 13: Conditionals and TDD exercise 1 only">
+      <created>1361312830605</created>
+      <updated>1361312830605</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -579,21 +542,21 @@
     <frame x="753" y="30" width="1152" height="993" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32945284" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32945284" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295129" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30733946" sideWeight="0.76251453" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30733946" sideWeight="0.6705471" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295129" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23748545" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23748545" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -637,7 +600,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#9;Chapter 11: Separate Source Files (Movies)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;Lesson 13: Conditionals and TDD exercise 1 only" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -659,6 +622,8 @@
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#9;Chapter 9: Arrays" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#9;Chapter 10: Objects interacting" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#9;Chapter 11: Separate Source Files (Movies)" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;Lesson 13: Conditionals and TDD" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;Lesson 13: Conditionals and TDD exercise 1 only" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -703,27 +668,6 @@
         <state line="7" column="51" selection-start="159" selection-end="159" vertical-scroll-proportion="0.1891892" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/flicks2.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="53" selection-end="53" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/player.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="16" selection-start="109" selection-end="109" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/player_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="26" selection-start="111" selection-end="111" vertical-scroll-proportion="0.16216215">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/studio_game.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="1" selection-start="1" selection-end="1" vertical-scroll-proportion="0.0">
@@ -731,37 +675,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/conditionals.rb">
+    <entry file="file://$PROJECT_DIR$/playlist.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="33" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/movie.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="50" selection-start="282" selection-end="282" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/movie_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="57" selection-start="375" selection-end="375" vertical-scroll-proportion="0.0">
+        <state line="33" column="7" selection-start="604" selection-end="604" vertical-scroll-proportion="0.8918919">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/playlist_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="45" selection-start="763" selection-end="763" vertical-scroll-proportion="0.0">
+        <state line="29" column="45" selection-start="763" selection-end="763" vertical-scroll-proportion="0.7837838">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/playlist.rb">
+    <entry file="file://$PROJECT_DIR$/movie_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="7" selection-start="604" selection-end="604" vertical-scroll-proportion="0.8918919">
+        <state line="18" column="57" selection-start="375" selection-end="375" vertical-scroll-proportion="-0.5405405">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/movie.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="50" selection-start="282" selection-end="282" vertical-scroll-proportion="0.45945945">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flicks2.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="53" selection-end="53" vertical-scroll-proportion="0.054054055">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/conditionals.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="33" selection-start="59" selection-end="59" vertical-scroll-proportion="0.054054055">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/player_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="52" column="16" selection-start="1100" selection-end="1100" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/player.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="17" selection-start="435" selection-end="435" vertical-scroll-proportion="0.83454543">
           <folding />
         </state>
       </provider>
