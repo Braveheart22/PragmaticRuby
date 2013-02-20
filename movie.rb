@@ -6,14 +6,21 @@ class Movie
     @rank = rank
   end
 
+  def hit?
+    @rank >= 10
+  end
+
+  def status
+    hit? ? "Hit" : "Flop"
+  end
+
   def to_s
-    "#{@title} has a rank of #{@rank}"
+    "#{@title} has a rank of #{@rank} (#{status})"
   end
 
   def thumbs_up
     @rank += 1
   end
-
 
   def thumbs_down
     @rank -= 1
