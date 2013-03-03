@@ -2,31 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb3e086f-1776-4c06-96b6-22e4da8430ef" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/game_turn.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/waldorf_and_statler.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/die.rb" afterPath="$PROJECT_DIR$/die.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/flicks2.rb" afterPath="$PROJECT_DIR$/flicks2.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game.rb" afterPath="$PROJECT_DIR$/game.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game_spec.rb" afterPath="$PROJECT_DIR$/game_spec.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/movie.rb" afterPath="$PROJECT_DIR$/movie.rb" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/playlist.rb" afterPath="$PROJECT_DIR$/playlist.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/game_turn.rb" afterPath="$PROJECT_DIR$/game_turn.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/player.rb" afterPath="$PROJECT_DIR$/player.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/player_spec.rb" afterPath="$PROJECT_DIR$/player_spec.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/playlist_spec.rb" afterPath="$PROJECT_DIR$/playlist_spec.rb" />
+    </list>
+    <list id="ef21c6de-35ca-46ca-b519-58dbf490264f" name="New changelist" comment="New changelist">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="studio_game.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/studio_game.rb" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1361148293365" ignored="false" />
-    <file path="/Dummy.txt" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1361468941964" ignored="false" />
+    <file path="/studio_game.rb" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1361643114552" ignored="false" />
+    <file path="/Dummy.txt" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1362258023229" ignored="false" />
     <file path="/flicks.rb" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1360363077308" ignored="false" />
-    <file path="/player.rb" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1361147747475" ignored="false" />
-    <file path="/game.rb" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1361326925231" ignored="false" />
+    <file path="/player.rb" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1362269952324" ignored="false" />
+    <file path="/game.rb" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1362271406708" ignored="false" />
     <file path="/movie_spec.rb" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1361237286058" ignored="false" />
     <file path="/movie.rb" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1361470764494" ignored="false" />
     <file path="/game_spec.rb" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1361326056442" ignored="false" />
     <file path="/die.rb" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1361326760227" ignored="false" />
     <file path="/blocks.rb" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1361470494296" ignored="false" />
-    <file path="/playlist.rb" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1361470900261" ignored="false" />
+    <file path="/playlist.rb" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1361925469823" ignored="false" />
     <file path="/flicks2.rb" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1361470355754" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1361645223004" ignored="false" />
+    <file path="/snack_bar.rb" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1361925212495" ignored="false" />
+    <file path="/treasure_trove.rb" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1361929492505" ignored="false" />
+    <file path="/game_turn.rb" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1362269178653" ignored="false" />
+    <file path="/player_spec.rb" changelist="eb3e086f-1776-4c06-96b6-22e4da8430ef" time="1362269611483" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,17 +46,7 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="blocks.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/blocks.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="33" selection-start="221" selection-end="221" vertical-scroll-proportion="0.28333333">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -76,24 +70,28 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/delete.rb" />
-        <option value="$PROJECT_DIR$/flicks.rb" />
-        <option value="$PROJECT_DIR$/player.rb" />
-        <option value="$PROJECT_DIR$/studio_game.rb" />
         <option value="$PROJECT_DIR$/movie_spec.rb" />
         <option value="$PROJECT_DIR$/die.rb" />
-        <option value="$PROJECT_DIR$/game.rb" />
-        <option value="$PROJECT_DIR$/game_spec.rb" />
         <option value="$PROJECT_DIR$/flicks2.rb" />
         <option value="$PROJECT_DIR$/blocks.rb" />
         <option value="$PROJECT_DIR$/movie.rb" />
+        <option value="$PROJECT_DIR$/studio_game.rb" />
+        <option value="$PROJECT_DIR$/snack_bar.rb" />
         <option value="$PROJECT_DIR$/playlist.rb" />
+        <option value="$PROJECT_DIR$/treasure_trove_spec.rb" />
+        <option value="$PROJECT_DIR$/treasure_trove.rb" />
+        <option value="$PROJECT_DIR$/game_turn.rb" />
+        <option value="$PROJECT_DIR$/player_spec.rb" />
+        <option value="$PROJECT_DIR$/player.rb" />
+        <option value="$PROJECT_DIR$/game_spec.rb" />
+        <option value="$PROJECT_DIR$/game.rb" />
+        <option value="$PROJECT_DIR$/playlist_spec.rb" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="772" />
-    <option name="y" value="36" />
+    <option name="x" value="681" />
+    <option name="y" value="81" />
     <option name="width" value="1152" />
     <option name="height" value="977" />
   </component>
@@ -123,7 +121,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -144,18 +141,37 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="recentsLimit" value="5" />
     <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="recentsLimit" value="5" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
   </component>
-  <component name="RunManager" selected="Ruby.flicks2">
+  <component name="RunManager" selected="RSpec.playlist_spec">
+    <configuration default="false" name="game" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="studio_game" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$PROJECT_DIR$/game.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
     <configuration default="false" name="game_spec" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
       <predefined_log_file id="RUBY_RSPEC" enabled="true" />
       <module name="studio_game" />
@@ -186,7 +202,25 @@
       <ConfigurationWrapper RunnerId="RubyRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="movie_spec" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+    <configuration default="false" name="game_turn" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="studio_game" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$PROJECT_DIR$/game_turn.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="player_spec" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
       <predefined_log_file id="RUBY_RSPEC" enabled="true" />
       <module name="studio_game" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
@@ -202,7 +236,7 @@
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
       <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$PROJECT_DIR$/movie_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$PROJECT_DIR$/player_spec.rb" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
@@ -216,56 +250,32 @@
       <ConfigurationWrapper RunnerId="RubyRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="blocks" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration default="false" name="playlist_spec" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
       <module name="studio_game" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
       <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
       <EXTENSION ID="JRubyRunConfigurationExtension" />
       <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
       <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$PROJECT_DIR$/blocks.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <RunnerSettings RunnerId="RubyRunner" />
-      <ConfigurationWrapper RunnerId="RubyRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="playlist" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="studio_game" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$PROJECT_DIR$/playlist.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <RunnerSettings RunnerId="RubyRunner" />
-      <ConfigurationWrapper RunnerId="RubyRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="flicks2" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="studio_game" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <envs />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$PROJECT_DIR$/flicks2.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$PROJECT_DIR$/playlist_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
       <RunnerSettings RunnerId="RubyRunner" />
       <ConfigurationWrapper RunnerId="RubyRunner" />
       <method />
@@ -371,19 +381,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Ruby.studio_game" />
-      <item index="1" class="java.lang.String" itemvalue="RSpec.game_spec" />
-      <item index="2" class="java.lang.String" itemvalue="RSpec.movie_spec" />
-      <item index="3" class="java.lang.String" itemvalue="Ruby.blocks" />
-      <item index="4" class="java.lang.String" itemvalue="Ruby.playlist" />
-      <item index="5" class="java.lang.String" itemvalue="Ruby.flicks2" />
+      <item index="1" class="java.lang.String" itemvalue="Ruby.game" />
+      <item index="2" class="java.lang.String" itemvalue="RSpec.game_spec" />
+      <item index="3" class="java.lang.String" itemvalue="Ruby.game_turn" />
+      <item index="4" class="java.lang.String" itemvalue="RSpec.player_spec" />
+      <item index="5" class="java.lang.String" itemvalue="RSpec.playlist_spec" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Ruby.flicks2" />
-        <item index="1" class="java.lang.String" itemvalue="Ruby.blocks" />
-        <item index="2" class="java.lang.String" itemvalue="Ruby.playlist" />
-        <item index="3" class="java.lang.String" itemvalue="RSpec.movie_spec" />
-        <item index="4" class="java.lang.String" itemvalue="RSpec.game_spec" />
+        <item index="0" class="java.lang.String" itemvalue="RSpec.playlist_spec" />
+        <item index="1" class="java.lang.String" itemvalue="RSpec.game_spec" />
+        <item index="2" class="java.lang.String" itemvalue="Ruby.game" />
+        <item index="3" class="java.lang.String" itemvalue="RSpec.player_spec" />
+        <item index="4" class="java.lang.String" itemvalue="Ruby.game_turn" />
       </list>
     </recent_temporary>
   </component>
@@ -409,6 +419,7 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="eb3e086f-1776-4c06-96b6-22e4da8430ef" name="Default" comment="" />
+      <changelist id="ef21c6de-35ca-46ca-b519-58dbf490264f" name="New changelist" comment="" />
       <created>1360334531583</created>
       <updated>1360334531583</updated>
     </task>
@@ -444,27 +455,43 @@
       <created>1361329221666</created>
       <updated>1361329221666</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;Conflicts:&#10;&#9;.idea/workspace.xml&#10;">
+      <created>1361471067412</created>
+      <updated>1361471067412</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Unit 15:Blocks">
+      <created>1361645257587</created>
+      <updated>1361645257587</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Unit 16: Symbols and Structs">
+      <created>1361925567470</created>
+      <updated>1361925567470</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Unit 16: Symbols and Structs (Exercise)">
+      <created>1361930104358</created>
+      <updated>1361930104358</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="772" y="36" width="1152" height="977" extended-state="0" />
+    <frame x="681" y="81" width="1152" height="977" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24317913" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24954128" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31284404" sideWeight="0.67141163" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33211008" sideWeight="0.67141163" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293578" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32858837" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32858837" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32977462" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -509,7 +536,7 @@
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;Chapter 13: Conditionals and TDD" />
+    <option name="LAST_COMMIT_MESSAGE" value="Unit 16: Symbols and Structs (Exercise)" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -525,57 +552,15 @@
     <MESSAGE value="Initial commit of Pragmatic Studios Ruby Programming class" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;Chapter 11: Separate Source Files" />
     <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;Chapter 13: Conditionals and TDD" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;Conflicts:&#10;&#9;.idea/workspace.xml&#10;" />
+    <MESSAGE value="Unit 15:Blocks" />
+    <MESSAGE value="Unit 16: Symbols and Structs" />
+    <MESSAGE value="Unit 16: Symbols and Structs (Exercise)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/studio_game_first.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/studio_game.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="4" selection-start="83" selection-end="83" vertical-scroll-proportion="0.08323134" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/flicks.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="35" selection-start="174" selection-end="174" vertical-scroll-proportion="0.14565483" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/player.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="0" selection-start="566" selection-end="566" vertical-scroll-proportion="1.1648148">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/player_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="29" selection-start="489" selection-end="489" vertical-scroll-proportion="0.52019584">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/die.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="4" selection-start="54" selection-end="54" vertical-scroll-proportion="0.08323134">
@@ -585,37 +570,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/movie_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="4" selection-start="802" selection-end="802" vertical-scroll-proportion="0.23011015">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game_turn.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="38" column="4" selection-start="802" selection-end="802" vertical-scroll-proportion="0.23011015" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/flicks2.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="21" selection-start="355" selection-end="355" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/playlist.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="18" selection-start="422" selection-end="422" vertical-scroll-proportion="0.6296296">
-          <folding />
-        </state>
+        <state line="15" column="21" selection-start="355" selection-end="355" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/movie.rb">
@@ -627,7 +587,82 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/blocks.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="33" selection-start="221" selection-end="221" vertical-scroll-proportion="0.28333333">
+        <state line="9" column="33" selection-start="221" selection-end="221" vertical-scroll-proportion="0.25" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snack_bar.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="0" selection-start="390" selection-end="390" vertical-scroll-proportion="0.6611111">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game_turn.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="0" selection-start="396" selection-end="396" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/player_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="87" selection-start="585" selection-end="585" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="5" selection-start="1403" selection-end="1403" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="61" selection-start="1813" selection-end="1813" vertical-scroll-proportion="0.83518517">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/player.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="68" selection-start="263" selection-end="263" vertical-scroll-proportion="0.3462963">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/treasure_trove.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="13" selection-start="314" selection-end="314" vertical-scroll-proportion="0.40925926">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/treasure_trove_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="0" selection-start="1110" selection-end="1110" vertical-scroll-proportion="0.59074074">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/studio_game.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playlist.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playlist_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="23" selection-start="817" selection-end="817" vertical-scroll-proportion="0.62222224">
           <folding />
         </state>
       </provider>
