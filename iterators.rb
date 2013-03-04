@@ -23,7 +23,7 @@ def n_times(count)
   end
 end
 
-n_times(15) do |n|
+n_times(10) do |n|
   puts "#{n} situps"
   puts "#{n} pushups"
   puts "#{n} chinups"
