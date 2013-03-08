@@ -8,6 +8,14 @@ class Playlist
     @movies = []
   end
 
+  def load(from_file)
+    File.readlines(from_file).each do |line|
+      title, rank = line.split(',')
+      movie = Movie.new(title, rank.to_i)
+      add_movie(movie)
+    end
+  end
+
   def add_movie(movie)
     @movies << movie
   end
