@@ -23,3 +23,5 @@ loop do
   end
 end
 
+playlist1.save
+
