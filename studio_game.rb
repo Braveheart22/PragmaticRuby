@@ -7,12 +7,25 @@ player3 = Player.new("curly", 125)
 player4 = Player.new("shemp", 90)
 
 knuckleheads = Game.new("Knuckleheads")
-knuckleheads.add_player(player1)
-knuckleheads.add_player(player2)
-knuckleheads.add_player(player3)
+
+knuckleheads.load_players(ARGV.shift || "players.csv")
+#knuckleheads.add_player(player1)
+#knuckleheads.add_player(player2)
+#knuckleheads.add_player(player3)
 #knuckleheads.add_player(player4)
-knuckleheads.play(10) do
-  knuckleheads.total_points >= 2000
+loop do
+  puts "\nHow many game rounds? ('quit' to exit)"
+  answer = gets.chomp.downcase
+  case answer
+    when /^\d+$/
+      knuckleheads.play(answer.to_i)
+    when 'quit', 'exit'
+      knuckleheads.print_statistics
+      break
+    else
+      puts "Please enter a number or 'quit'."
+
+  end
 end
 
-knuckleheads.print_statistics
+knuckleheads.save_high_scores
